@@ -4,3 +4,4 @@ proccess the data
 create a avatar for user
 
 login and logout 
+change password
