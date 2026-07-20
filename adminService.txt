@@ -3,3 +3,6 @@ change permissions
 manage database
 
 closing the connections
+
+change1 
+change2
