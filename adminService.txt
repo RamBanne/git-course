@@ -2,7 +2,7 @@ add and remove users
 change permissions
 manage database
 
-closing the databse connections
+closing the mysql databse connections
 
 change1 
 change2 ram database
